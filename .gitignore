@@ -1,0 +1,22 @@
+# macOS 시스템 파일
+.DS_Store
+
+# 환경 변수 파일
+.env
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Azure Static Web Apps 관련 (임시 파일들)
+.swa/
+dist/
+build/
+
+# VSCode 설정 (있을 경우)
+.vscode/
+
+# 백업/임시 파일
+*.log
+*.bak
+*.tmp
